@@ -11,7 +11,7 @@ Follow these steps to successfully deploy the SmartTraffic Management project:
 Open your VS Code terminal and execute the following command:
 
 ```bash
-  git clone https://github.com/RUBY02K/Smart_traffic_management.git
+  https://github.com/RUBY02K/ANPR_and_ATCC_for_Smart_Traffic_Management.git
 ```
 
 ### Step 2: Start the Backend Server
