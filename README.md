@@ -32,7 +32,7 @@ At this stage, the backend is set up and ready to handle requests from the front
 2. Navigate to the frontend directory:
 
 ```bash
-  cd FrontEnd
+  cd frontend
 ```
 
 3. Start the frontend server using:
